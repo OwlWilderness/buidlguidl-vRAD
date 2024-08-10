@@ -1,7 +1,11 @@
 # RadBuidl v0
 Forked from Buidl Guidl v3.5 for Radbro Coding Club 
 
-Firebase Project:[radbuild](https://console.firebase.google.com/project/radbuidl/overview)
+## Firebase Project
+[radbuild](https://console.firebase.google.com/project/radbuidl/overview)
+
+notes :
+- serviceAccountKey.json is not the actual file name - a key pair can be created and json downloaded here: settings/serviceaccounts/adminsdk
 
 # BuidlGuidl v3.5
 
